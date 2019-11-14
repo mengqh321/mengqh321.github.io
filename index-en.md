@@ -5,7 +5,7 @@
       <h1>Qinghui Meng</h1>
       <p><b>Ph.D </b></p>
       <p><b>National Synchrotron Radiation Laboratory, USTC </b></p>
-      <p><b>E-mail：mengqh@mail.ustc.edu.cn</b></p>
+      <p><b>Email：mengqh@mail.ustc.edu.cn</b></p>
       <p><b>Address：USTC, Hefei, Anhui, 230027, China</b></p>
       <a href="/index.html">中文版</a>
     </td>
@@ -17,11 +17,11 @@
 </div>
 ### Education
 
-- XXX
+- 2014.09-2019.06 University of Science and Technology of China，Ph.D，Supervised by XXX
 
-- XXX
+- 2016.XX-2017.XX The Hong Kong Polytecnic University，Research Assistant，Supervised by XXX
 
-- XXX
+- 2010.09-2014.06 Lanzhou University，B.S. in Applied Chemistry (Radiochemistry)
 
 ### Research Interests
 
