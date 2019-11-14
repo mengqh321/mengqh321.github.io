@@ -34,7 +34,7 @@
 - XXX
 
 ### 论文发表
-- **Q. Meng**, Y. Chi, L. Zhang, P. Zhang, L. Sheng, “Towards high-level theoretical studies of large biodiesel molecules: An ONIOM/RRKM/Master-equation approach to the isomerization and dissociation kinetics of methyl decanoate radicals,”Phys. Chem. Chem. Phys., 2019,21, 5232-5242. DOI:10.1039/C8CP05593A
+- **Q. Meng**, Y. Chi, L. Zhang, P. Zhang, L. Sheng, “Towards high-level theoretical studies of large biodiesel molecules: An ONIOM/RRKM/Master-equation approach to the isomerization and dissociation kinetics of methyl decanoate radicals,”Phys. Chem. Chem. Phys., 2019. [PDF](./publication/publication.pdf).
 
 - L. Zhang, **Q. Meng**, Y. Chi, P. Zhang, “Towards High-Level Theoretical Studies of Large Biodiesel Molecules: An ONIOM [QCISD(T)/CBS:DFT] Study of the Reactions between Unsaturated Methyl Esters (CnH2n-1 COOCH3 ) and Hydrogen Radical,” J. Phys. Chem. A. 2018, 122(21), 4882-4893. doi.org/10.1021/acs.jpca.8b02327
 
