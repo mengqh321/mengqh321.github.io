@@ -4,9 +4,9 @@
     <td>
       <h1>Qinghui Meng</h1>
       <p><b>Ph.D </b></p>
-      <p><b>National Synchrotron Radiation Laboratory, University of Science and Technology of China </b></p>
+      <p><b>National Synchrotron Radiation Laboratory, USTC </b></p>
       <p><b>E-mail：mengqh@mail.ustc.edu.cn</b></p>
-      <p><b>Address：University of Science and Technology of China, Hefei, Anhui, 230027, China</b></p>
+      <p><b>Address：USTC, Hefei, Anhui, 230027, China</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
