@@ -19,16 +19,19 @@
 ### Education
 
 - 2014.09-2019.06 
+
 	- University of Science and Technology of China
 	
 	- Ph.D, Supervised by Prof. Lidong Zhang and Prof. Liusi Sheng
 
 - 2016.11-2017.11
+
 	- The Hong Kong Polytecnic University
 	
 	- Research Assistant, Supervised by Prof. Peng Zhang
 
 - 2010.09-2014.06
+
 	- Lanzhou University
 	
 	- B.S. in Applied Chemistry (Radiochemistry)
@@ -43,11 +46,11 @@
 
 ### Professional Skills
 
-- Familiar with the Ab initio transition state theory and its application to different reaction classes
+- Familiar with the Ab initio transition state theory and its application to different reaction classes.
 
-- Familiar with the pressure dependent kinetics
+- Familiar with the pressure dependent kinetics.
 
-- Proficient in the softwares for computational chemical kinetics including Gaussian, Molpro, MSTor, Mess, Variflex and Chemkin-Pro
+- Proficient in the softwares for computational chemical kinetics including Gaussian, Molpro, MSTor, Mess, Variflex and Chemkin-Pro.
 
 ### Publications
 - **Q. Meng**, Y. Chi, L. Zhang, P. Zhang, L. Sheng, “Towards high-level theoretical studies of large biodiesel molecules: An ONIOM/RRKM/Master-equation approach to the isomerization and dissociation kinetics of methyl decanoate radicals,”Phys. Chem. Chem. Phys., 2019,21, 5232-5242. [[DOI]](https://doi.org/10.1039/C8CP05593A)[[PDF]](./publications/11.pdf)
