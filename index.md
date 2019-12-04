@@ -5,7 +5,7 @@
       <h1>Qinghui Meng</h1>
       <p><b>Ph.D </b></p>
       <p><b>National Synchrotron Radiation Laboratory</b></p>
-	  <p><b>University of Science and Technology of China</b></p>
+	  <p><b>University of Science and Technology of China (USTC)</b></p>
       <p><b>Email：mengqh@mail.ustc.edu.cn</b></p>
       <!-- <p><b>Address：USTC, Hefei, Anhui, 230027, China</b></p> -->
       <!-- <a href="/index.html">中文版</a> -->
@@ -18,21 +18,15 @@
 </div>
 ### Education
 
-- 2014.09-2019.06 
-
-	- University of Science and Technology of China
+- 2014.09-2019.06 University of Science and Technology of China
 	
 	- Ph.D, Supervised by Prof. Lidong Zhang and Prof. Liusi Sheng
 
-- 2016.11-2017.11
-
-	- The Hong Kong Polytecnic University
+- 2016.11-2017.11 The Hong Kong Polytecnic University
 	
 	- Research Assistant, Supervised by Prof. Peng Zhang
 
-- 2010.09-2014.06
-
-	- Lanzhou University
+- 2010.09-2014.06 Lanzhou University
 	
 	- B.S. in Applied Chemistry (Radiochemistry)
 
