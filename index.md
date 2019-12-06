@@ -26,7 +26,7 @@
 
 - 2016.11-2017.11
 
-	- The Hong Kong Polytecnic University
+	- The Hong Kong Polytechnic University
 	
 	- Research Assistant, Supervised by Prof. Peng Zhang
 
